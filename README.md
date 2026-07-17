@@ -1,10 +1,10 @@
-🔮 Who I Am
+👨‍🚀 Who I Am
 
 ```js
 const anubhavTripathy = {
   title: "Physics Graduate | QFT & High Energy Particles Enthusiast",
   location: "Cuttack, Odisha, India",
-  background: "BSc Physics Honours — Jatiya Kabi Bira Kishor Das Govt. College, Utkal University",
+  background: "BSc Physics Honours",
   stack: {
     languages: ["Python"],
     scientificComputing: ["NumPy", "SciPy", "Matplotlib", "Plotly"],
@@ -21,6 +21,7 @@ const anubhavTripathy = {
   status: "Pursuing MSc Physics admission, 2026–27 cycle",
   openTo: ["Research Internship", "Research Project", "Summer Program"]
 };
+``
 ```
 
 ---
@@ -79,3 +80,5 @@ An interactive visualizer for hydrogen atom wavefunctions, rendering orbital pro
 📈 Contribution Activity
 
 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav-tripathy-2966a4223)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anubhavtripathy68@gmail.com)
